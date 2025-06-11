@@ -1,0 +1,11 @@
+.invert{
+    filter: invert(1);
+}
+
+.m-1{
+    margin: 10px;
+}
+
+.rotateimg180 {
+    transform: rotate(180deg);
+}
